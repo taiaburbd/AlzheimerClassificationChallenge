@@ -1,0 +1,2 @@
+,Accuracy,Sensitivity,Spec,Precision,F1,AUC,MCC,BA
+ADvsMCI,0.7438,0.7778,0,0.6885,0.7304,0.7471,0.4914,0.7471

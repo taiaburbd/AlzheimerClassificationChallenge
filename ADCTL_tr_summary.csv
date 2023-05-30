@@ -1,0 +1,2 @@
+,Accuracy,Sensitivity,Spec,Precision,F1,AUC,MCC,BA
+ADvsCTL,0.8261,0.8333,0,0.8036,0.8182,0.8265,0.652,0.8265
